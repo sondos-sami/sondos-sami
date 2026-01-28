@@ -4,13 +4,12 @@
  
 
 <details>
-<summary><strong>Busy coding & vibing to 🎧</strong></summary>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](#)
+ 
+ 
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+ 
 
 </div>
 
