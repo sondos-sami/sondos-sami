@@ -1,43 +1,31 @@
- <div align="center">
+ <h3 align="center"> Hi there 👋</h3>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
- 
+<p align="center">
+I'm <b>Sondos Sami</b>, a passionate Front-End Developer who loves building modern,
+responsive, and user-friendly web interfaces.
+</p>
 
-<details>
- 
- 
+<h4 align="center">
+💻 Front-End Developer |
+⚛️ React.js & Next.js |
+🎨 HTML • CSS • JavaScript |
+🧩 Bootstrap & Tailwind CSS
+</h4>
 
-</details>
+<p align="center">
+🌱 Always learning & improving my frontend skills
+</p>
 
- 
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME"> https://github.com/sondos-sami</a>
+</p>
 
-</div>
+<br/>
 
----
+<h3 align="center">
+My Tech Stack
+</h3>
 
-## 🚀 Tools & Technologies I Use
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-```javascript
-// tools_I_use organized
-
-class AboutMe {
-  tools = {
-    frontend: ["React.js", "Next.js"],
-    languages: ["HTML", "CSS", "JavaScript"],
-    styling: ["Bootstrap", "Tailwind CSS"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
-    platforms: ["Web"]
-  };
-}
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
