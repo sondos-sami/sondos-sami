@@ -1,54 +1,44 @@
- <h2>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi there 👋, I'm Sondos Sami!
-</h2>
+ <div align="center">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<p>
-  <em>
-    Front-End Developer specializing in 
-    <b>React.js</b> & <b>Next.js</b>  
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  </em>
-</p>
+<details>
+<summary><strong>Busy coding & vibing to 🎧</strong></summary>
 
----
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](#)
 
-### 👩‍💻 About Me
+</details>
 
-- 🎨 Front-End Developer passionate about building **clean, responsive, and user-friendly UI**
-- ⚛️ Working mainly with **React.js & Next.js**
-- 💅 Strong experience with **HTML, CSS, JavaScript**
-- 🧩 Styling with **Bootstrap & Tailwind CSS**
-- 🚀 Always learning and improving my frontend skills
-- 🤍 Love turning designs into real, interactive web apps
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Tools & Technologies I Use
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ```javascript
-const sondos = {
-  name: "Sondos Sami",
-  role: "Front-End Developer",
-  technologies: {
-    frontend: {
-      frameworks: ["React.js", "Next.js"],
-      languages: ["HTML", "CSS", "JavaScript"],
-      styling: ["Bootstrap", "Tailwind CSS"],
-    },
-    tools: [
-      "Git",
-      "GitHub",
-      "VS Code",
-      "npm"
-    ]
-  },
-  currentlyLearning: [
-    "Advanced React Patterns",
-    "Next.js App Router",
-    "Performance Optimization"
-  ],
-  funFact: "Good UI can make users forgive bad WiFi 😄"
-};
+// tools_I_use organized
+
+class AboutMe {
+  tools = {
+    frontend: ["React.js", "Next.js"],
+    languages: ["HTML", "CSS", "JavaScript"],
+    styling: ["Bootstrap", "Tailwind CSS"],
+    tools: ["Git", "GitHub", "VS Code", "Figma"],
+    platforms: ["Web"]
+  };
+}
