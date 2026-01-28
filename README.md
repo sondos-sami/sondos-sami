@@ -17,7 +17,7 @@ responsive, and user-friendly web interfaces.
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME"> https://github.com/sondos-sami</a>
+<a href="https://github.com/sondos-sami"> https://github.com/sondos-sami</a>
 </p>
 
 <br/>
