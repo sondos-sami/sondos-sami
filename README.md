@@ -1,10 +1,16 @@
- <!-- GitHub Profile README -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  
+  
 
+</div>
 <div align="center">
   <img src="https://github.com/YOUR_USERNAME/profile-assets/blob/main/header.gif" alt="header" />
 </div>
 
-<h2 align="center">Hi 👋, I'm Sondos Sami</h2>
+<h2 align="center">Assalamu Alaikum 👋, I'm Sondos Sami</h2>
 
 <p align="center">
 Front-End Developer specialized in building modern, responsive, and user-focused web applications
@@ -63,20 +69,20 @@ Passionate about writing maintainable code and delivering great user experiences
 <tr>
 <td width="50%">
 
-<b>React Dashboard</b><br/>
+<b>React Social Media Platform</b><br/>
 • Component-based UI<br/>
 • Responsive layout<br/>
 • Clean state management<br/>
-<a href="#">Live Demo</a> • <a href="#">GitHub</a>
+<a href="https://ping-up-social-media.netlify.app/">Live Demo</a> • <a href="https://github.com/sondos-sami/PingUp-Social">GitHub</a>
 
 </td>
 <td width="50%">
-
-<b>Next.js Website</b><br/>
+ 
+<b>Next.js Website E-commerce</b><br/>
 • SEO optimized<br/>
 • Tailwind styling<br/>
 • Fast & scalable<br/>
-<a href="#">Live Demo</a> • <a href="#">GitHub</a>
+<a href="https://freshcart-sondos.netlify.app/">Live Demo</a> • <a href="https://github.com/sondos-sami/E-commerce">GitHub</a>
 
 </td>
 </tr>
