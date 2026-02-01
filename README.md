@@ -69,20 +69,24 @@ Passionate about writing maintainable code and delivering great user experiences
 <tr>
 <td width="50%">
 
-<b>React Social Media Platform</b><br/>
-• Component-based UI<br/>
-• Responsive layout<br/>
-• Clean state management<br/>
-<a href="https://ping-up-social-media.netlify.app/">Live Demo</a> • <a href="https://github.com/sondos-sami/PingUp-Social">GitHub</a>
+ <b>React Social Media Platform</b><br/>
+• Built with a component-based architecture<br/>
+• Fully responsive design<br/>
+• Clean and scalable state management<br/>
+<a href="https://ping-up-social-media.netlify.app/">Live Demo</a> • 
+<a href="https://github.com/sondos-sami/PingUp-Social">GitHub</a>
 
 </td>
 <td width="50%">
  
-<b>Next.js Website E-commerce</b><br/>
-• SEO optimized<br/>
-• Tailwind styling<br/>
-• Fast & scalable<br/>
-<a href="https://freshcart-sondos.netlify.app/">Live Demo</a> • <a href="https://github.com/sondos-sami/E-commerce">GitHub</a>
+ <b>FreshCart – Modern E-commerce Platform</b><br/>
+• Built with Next.js for high performance<br/>
+• Fully responsive UI using Tailwind CSS<br/>
+• Product listing, cart & checkout flow<br/>
+• Optimized for speed, scalability, and user experience<br/>
+<a href="https://freshcart-sondos.netlify.app/">Live Demo</a> • 
+<a href="https://github.com/sondos-sami/E-commerce">GitHub</a>
+
 
 </td>
 </tr>
@@ -90,6 +94,11 @@ Passionate about writing maintainable code and delivering great user experiences
 
 <p align="center">
 More projects available in my repositories 👇
+</p>
+<p align="center">
+<a href="https://github.com/sondos-sami">
+👉 View All Projects on GitHub
+</a>
 </p>
 
  
